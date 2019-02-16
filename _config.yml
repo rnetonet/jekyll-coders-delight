@@ -1,6 +1,6 @@
-title: ""
-author: ""
-description: ""
+title: "Jekyll Coders Delight"
+author: "John Coder"
+description: "A jekyll theme for those who code."
 
 # Jekyll settings
 permalink: /:title/          # see https://jekyllrb.com/docs/permalinks/
@@ -24,7 +24,7 @@ navigation:                  # (optional) site navigation in the header
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
   envelope: "mailto:"
-  github: "https://github.com"
+  github: "https://github.com/sdhutchins/jekyll-coders-delight"
   rss: "/feed.xml"
 
 comments:                    # embed disqus or isso comments
