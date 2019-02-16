@@ -32,6 +32,9 @@ comments:                    # embed disqus or isso comments
 #  isso: ""
 
 plugins:
+ - jekyll-feed
+ - jekyll-paginate
+ - jekyll-default-layout
  - jekyll-remote-theme
 
 remote_theme: sdhutchins/jekyll-coders-delight
