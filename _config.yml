@@ -36,5 +36,6 @@ plugins:
  - jekyll-paginate
  - jekyll-default-layout
  - jekyll-remote-theme
+ - jekyll-seo-tag
 
 remote_theme: sdhutchins/jekyll-coders-delight
